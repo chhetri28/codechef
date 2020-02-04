@@ -9,7 +9,7 @@ int main(){
 	    int z=0;
 	    int c=5;
 	    while((n/c)>0){
-	        z=z+(n/c);
+	        z=z+(n/c); 
 	        c=c*5;
 	    }
 	    cout<<z<<endl;
